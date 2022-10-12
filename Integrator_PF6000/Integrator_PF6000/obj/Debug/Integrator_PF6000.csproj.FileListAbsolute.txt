@@ -1,0 +1,9 @@
+E:\Data Program\Integrator_PF6000\Integrator_PF6000\bin\Debug\Integrator_PF6000.exe.config
+E:\Data Program\Integrator_PF6000\Integrator_PF6000\bin\Debug\Integrator_PF6000.exe
+E:\Data Program\Integrator_PF6000\Integrator_PF6000\bin\Debug\Integrator_PF6000.pdb
+E:\Data Program\Integrator_PF6000\Integrator_PF6000\obj\Debug\Integrator_PF6000.csprojResolveAssemblyReference.cache
+E:\Data Program\Integrator_PF6000\Integrator_PF6000\obj\Debug\Integrator_PF6000.Form1.resources
+E:\Data Program\Integrator_PF6000\Integrator_PF6000\obj\Debug\Integrator_PF6000.Properties.Resources.resources
+E:\Data Program\Integrator_PF6000\Integrator_PF6000\obj\Debug\Integrator_PF6000.csproj.GenerateResource.Cache
+E:\Data Program\Integrator_PF6000\Integrator_PF6000\obj\Debug\Integrator_PF6000.exe
+E:\Data Program\Integrator_PF6000\Integrator_PF6000\obj\Debug\Integrator_PF6000.pdb
